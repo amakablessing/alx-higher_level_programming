@@ -12,13 +12,12 @@ def add(a, b):
     return (a + b)
 
 
-idef sub(a, b):
+def sub(a, b):
     """My subtraction function
 
     Args:
         a: first integer
- ii       b: second integer
-
+        b: second integer
 
     Returns:
         The return value. a - b
