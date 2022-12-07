@@ -12,12 +12,13 @@ def add(a, b):
     return (a + b)
 
 
-def sub(a, b):
+idef sub(a, b):
     """My subtraction function
 
     Args:
         a: first integer
-        b: second integer
+ ii       b: second integer
+
 
     Returns:
         The return value. a - b
@@ -48,4 +49,4 @@ def div(a, b):
     Returns:
         The return value. a / b
     """
-    return int(a / b)
+    return int(a / b)
